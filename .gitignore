@@ -1,0 +1,12 @@
+.venv/
+venv/
+
+.env
+
+.streamlit/secrets.toml
+
+__pycache__/
+*.pyc
+
+temp.pdf
+faiss_index/
